@@ -4,7 +4,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-## 💻 Áreas de interesse
+## Áreas de interesse
 
 ![Programação](https://img.shields.io/badge/Programação-white?style=for-the-badge\&labelColor=white\&color=white)
 ![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento%20Web-white?style=for-the-badge\&labelColor=white\&color=white)
