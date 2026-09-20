@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou Isaac!
-
 🎓 Estudante interessado em **programação, computação e tecnologia**.
 
 Atualmente estou aprendendo e explorando diferentes áreas do desenvolvimento, principalmente **desenvolvimento web** e **cibersegurança**.
