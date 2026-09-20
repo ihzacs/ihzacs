@@ -1,18 +1,18 @@
-![Imagem branca](https://placehold.co/1000x200/ffffff/ffffff.png)
+![Imagem branca](https://placehold.co/1600x900/ffffff/ffffff.png)
 
 ## 🛠️ Tecnologias
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 💻 Áreas de interesse
 
-![Programação](https://img.shields.io/badge/Programação-white?style=for-the-badge\&labelColor=white\&color=white)
-![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento%20Web-white?style=for-the-badge\&labelColor=white\&color=white)
-![Cibersegurança](https://img.shields.io/badge/Cibersegurança-white?style=for-the-badge\&labelColor=white\&color=white)
-![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-white?style=for-the-badge\&labelColor=white\&color=white)
+![Programação](https://img.shields.io/badge/Programação-white?style=for-the-badge&labelColor=white&color=white)
+![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento%20Web-white?style=for-the-badge&labelColor=white&color=white)
+![Cibersegurança](https://img.shields.io/badge/Cibersegurança-white?style=for-the-badge&labelColor=white&color=white)
+![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-white?style=for-the-badge&labelColor=white&color=white)
 
 ## 👤 Contato
 
