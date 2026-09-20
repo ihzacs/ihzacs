@@ -8,9 +8,8 @@ Atualmente estou aprendendo e explorando diferentes áreas do desenvolvimento, p
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-##  Atualmente estudando
+## 💻 Áreas de interesse
 
-* 💻 Programação
-* 🌐 Desenvolvimento Web
-* 🔐 Cibersegurança
-* 🧠 Ciência da Computação
+![Programação](https://img.shields.io/badge/Programação-3776AB?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento%20Web-61DAFB?style=for-the-badge&logo=googlechrome&logoColor=black)
+![Cibersegurança](https://img.shields.io/badge/Cibersegurança-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
