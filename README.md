@@ -1,4 +1,4 @@
-![Imagem branca](https://placehold.co/1600x900/ffffff/ffffff.png)
+![Banner](https://placehold.co/1600x400/ffffff/ffffff.png)
 
 ## 🛠️ Tecnologias
 
