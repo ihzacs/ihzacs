@@ -11,3 +11,7 @@
 ![Cibersegurança](https://img.shields.io/badge/Cibersegurança-white?style=for-the-badge\&labelColor=white\&color=white)
 ![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-white?style=for-the-badge\&labelColor=white\&color=white)
 ![Ciência da Computação](https://img.shields.io/badge/Ciência%20da%20Computação-white?style=for-the-badge\&labelColor=white\&color=white)
+
+## Social
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
