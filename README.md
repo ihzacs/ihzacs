@@ -7,10 +7,10 @@
 
 ## 💻 Áreas de interesse
 
-![Programação](https://img.shields.io/badge/Programação-white?style=for-the-badge&labelColor=white&color=white)
-![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento%20Web-white?style=for-the-badge&labelColor=white&color=white)
-![Cibersegurança](https://img.shields.io/badge/Cibersegurança-white?style=for-the-badge&labelColor=white&color=white)
-![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-white?style=for-the-badge&labelColor=white&color=white)
+![Programação](https://img.shields.io/badge/Programação-black?style=for-the-badge&labelColor=black&color=black&logoColor=white)
+![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento%20Web-black?style=for-the-badge&labelColor=black&color=black&logoColor=white)
+![Cibersegurança](https://img.shields.io/badge/Cibersegurança-black?style=for-the-badge&labelColor=black&color=black&logoColor=white)
+![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-black?style=for-the-badge&labelColor=black&color=black&logoColor=white)
 
 ## 👤 Contato
 
