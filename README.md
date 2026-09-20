@@ -6,8 +6,8 @@
 
 ## 💻 Áreas de interesse
 
-![Programação](https://img.shields.io/badge/Programação-3776AB?style=for-the-badge)
-![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento%20Web-61DAFB?style=for-the-badge)
-![Cibersegurança](https://img.shields.io/badge/Cibersegurança-000000?style=for-the-badge)
-![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-412991?style=for-the-badge)
-![Ciência da Computação](https://img.shields.io/badge/Ciência%20da%20Computação-007ACC?style=for-the-badge)
+![Programação](https://img.shields.io/badge/Programação-white?style=for-the-badge\&labelColor=white\&color=white)
+![Desenvolvimento Web](https://img.shields.io/badge/Desenvolvimento%20Web-white?style=for-the-badge\&labelColor=white\&color=white)
+![Cibersegurança](https://img.shields.io/badge/Cibersegurança-white?style=for-the-badge\&labelColor=white\&color=white)
+![Inteligência Artificial](https://img.shields.io/badge/Inteligência%20Artificial-white?style=for-the-badge\&labelColor=white\&color=white)
+![Ciência da Computação](https://img.shields.io/badge/Ciência%20da%20Computação-white?style=for-the-badge\&labelColor=white\&color=white)
